@@ -102,14 +102,17 @@ header h1 {
 
 .popup-content {
     background: #111;
-    width: 90%;
-    max-width: 400px;
-    margin: 120px auto;
-    padding: 30px;
-    border-radius: 12px;
+    width: 95%;
+    max-width: 600px;   /* 🔥 bigger width */
+    margin: 80px auto;  /* moves popup slightly up */
+    padding: 40px;      /* more space inside */
+    border-radius: 15px;
     text-align: center;
-    box-shadow: 0 0 20px orange;
+    box-shadow: 0 0 25px orange;
+    height: 300px;
+    font-size: 25px;
 }
+
 
 .close {
     color: orange;
@@ -127,4 +130,3 @@ footer {
     background: #111;
     margin-top: 50px;
 }
-
