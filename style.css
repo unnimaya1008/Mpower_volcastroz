@@ -23,7 +23,7 @@ header {
 }
 
 header h1 {
-    font-size: 70px;
+    font-size: 100px;
     letter-spacing: 2px;
 }
 
@@ -31,6 +31,7 @@ header h1 {
     color: orange;
     font-style: italic;
     margin-top: 20px;
+    font-size: 30px;
 }
 
 /* TEAM SECTION */
@@ -40,7 +41,8 @@ header h1 {
 }
 
 .team h2 {
-    margin-bottom: 30px;
+    font-size: 70px;
+    margin-bottom: 40px;
     color: #ff8c00;
 }
 
